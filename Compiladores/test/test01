@@ -1,0 +1,8 @@
+
+def plain()
+    if ( amazing )
+        pass
+    while ( true )
+        loop.do_something()
+
+        print(args[10]["alfalfa"])

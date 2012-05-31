@@ -1,0 +1,16 @@
+program Prueba {
+int a;
+float b;
+
+a = 1;
+z = 1;
+
+if(a == 1){
+string c;
+if(a == 1){
+string z;
+a = 2;
+}
+}
+string d;
+}

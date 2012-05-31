@@ -1,0 +1,3 @@
+error 6 unexpected token -
+error 11 unexpected STRING "WORD" expecting (
+error 13 unexpected STRING "Testdeprueba" expecting field, method or constructor definition

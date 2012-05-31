@@ -1,0 +1,83 @@
+public class Program
+
+    int idea = 1
+        
+    private Program()
+        idea = "Soy.una.planta"
+        String[] params = new String[10]
+        params[0] = "-target"
+        params[2] = "scan"
+        this.readyGo(params)
+
+    void readyGo(String[] args)
+        return plain() + 1
+
+
+    int plain()
+        if_sum(2, 5/4, 67*3)
+
+    float if_sum(float a, float b, float c)
+        system.debug("printing.suma")
+        if (a > 0 && b > 0 && c > 0)
+            return a + b + c
+            
+PROGRAM
+   class
+      Program
+      extends
+         Programita
+      FIELD
+         private
+         float
+         balance
+            0
+      FIELD
+         public
+         char
+         c
+      FIELD
+         PRIVATE
+         string
+         name
+      METHOD
+         public
+         void
+         Program
+         PARAMS
+         BLOCK
+            CALL
+               NAME
+                  print
+               ARGS
+                  "Hola, compilador!"
+      METHOD
+         PRIVATE
+         float
+         Metodo
+         PARAMS
+            int
+               a
+            int
+               b
+            int
+               c
+         BLOCK
+            CALL
+               NAME
+                  print
+               ARGS
+                  "Hola, compilador!"
+      METHOD
+         public
+         void
+         readyGo
+         PARAMS
+            string
+               args
+         BLOCK
+            CALL
+               NAME
+                  print
+               ARGS
+                  "Hola, compilador!"
+            

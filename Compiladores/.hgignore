@@ -1,0 +1,6 @@
+syntax: glob
+output\
+*.class
+java\
+dist\
+resultados\

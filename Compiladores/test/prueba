@@ -1,0 +1,11 @@
+class Program
+
+	int b
+	Program prueba
+	
+	public int Programa(int a)
+        if(1 > 2 && 3 > 4)
+            a++
+        
+    public int Programa2(int a2, int c)
+        int b2 = 1 + 2.5
